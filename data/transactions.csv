@@ -1,0 +1,16 @@
+transaction_id,user_id,category,amount,transaction_type
+TXN001,U101,Salary,5000.00,Credit
+TXN002,U101,Groceries,150.50,Debit
+TXN003,U102,Investment,1000.00,Debit
+TXN004,U103,Loan Repayment,450.00,Debit
+TXN005,U101,Utilities,120.00,Debit
+TXN006,U104,Salary,4200.00,Credit
+TXN007,U102,Rent,1500.00,Debit
+TXN008,U105,Mortgage,2100.00,Debit
+TXN009,U103,Salary,6000.00,Credit
+TXN010,U104,Entertainment,85.00,Debit
+TXN011,U105,Salary,8000.00,Credit
+TXN012,U101,Credit Card Bill,600.00,Debit
+TXN013,U102,Groceries,210.00,Debit
+TXN014,U103,Insurance,300.00,Debit
+TXN015,U104,Investment,500.00,Debit
