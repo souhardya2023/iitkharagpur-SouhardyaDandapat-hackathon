@@ -1,10 +1,10 @@
 # AI/NLP Risk Engine - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Souhardya Dandapat
-**College Email ID:** [sdandapat@kgpian.iitkgp.ac.in]
+**College Email ID:** (sdandapat@kgpian.iitkgp.ac.in).
 **College / Campus:** IIT Kharagpur
 **Demo Video Link:** [YouTube / Unlisted - ADD LINK HERE]
-**Slide Deck Link (if hosted externally):** [ADD LINK HERE]
+**Slide Deck Link:** (https://docs.google.com/presentation/d/1lmDnyr9HewlJ6G-zuq-yZ2DTGf9mJyr7qjImS6Rt9bg/edit?usp=sharing).
 
 ## 1. Project Overview / Problem Statement & Approach
 
